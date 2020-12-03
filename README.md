@@ -9,7 +9,10 @@ I'm Mayank Singh, a 3rd year student at IIT Madras and a **self-taught programme
 - 🌱 I’m currently learning React.js and node.js.
 - 👯 I’m looking to collaborate on **open-source project**.
 - 💬 Ask me about any kind of issues.
-- 👨‍👧‍👦**I love connecting with different people**  😊.
+- 👨‍👧‍👦**I love connecting with different people**  
+
+### Goals for 2021:
+- Contributing more to open-source.
 
 ### Languages and Tools:
 
