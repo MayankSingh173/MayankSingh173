@@ -1,9 +1,7 @@
 ### Hey there !!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
-<p><a  href="https://www.linkedin.com/in/mayank-singh-70a773191/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height=25></a>  <a  href="https://www.instagram.com/mr.singh_173/"><img  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  height=25></a> <a  href="https://github.com/MayankSingh173"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height=25></a> <a  href="https://mail.google.com/mail/u/0/#compose"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height=25></a>
-</p>
-
 ### I'm Mayank Singh, a 3rd year student at IIT Madras and a self-taught programmer.
+<a href="https://www.linkedin.com/in/mayank-singh-70a773191/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height=25></a>  <a  href="https://www.instagram.com/mr.singh_173/"><img  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  height=25></a> <a  href="https://github.com/MayankSingh173"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height=25></a> <a  href="https://mail.google.com/mail/u/0/#compose"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height=25></a>
 
 - 🔭 I’m currently working on my **skills**
 - 🌱 I’m currently learning React.js and node.js.
